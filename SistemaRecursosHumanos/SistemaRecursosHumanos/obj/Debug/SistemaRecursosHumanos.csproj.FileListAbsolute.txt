@@ -1,0 +1,7 @@
+C:\Users\Ashley\Desktop\Exam 1 Program\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.exe.config
+C:\Users\Ashley\Desktop\Exam 1 Program\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.exe
+C:\Users\Ashley\Desktop\Exam 1 Program\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.pdb
+C:\Users\Ashley\Desktop\Exam 1 Program\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.csproj.AssemblyReference.cache
+C:\Users\Ashley\Desktop\Exam 1 Program\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Desktop\Exam 1 Program\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.exe
+C:\Users\Ashley\Desktop\Exam 1 Program\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.pdb
